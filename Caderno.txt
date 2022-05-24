@@ -1,0 +1,32 @@
+Tudo entre "" irá virar texto, por exemplo console.log("Exemplo")
+
+Const = variável
+
+Console.log para imprimir conteúdo
+
+texto = String
+
+ParseInt = Converter de texto para número, como apresentado no Tópico 4
+
+Const não pode mudar, nesses casos usará o let, então usaremos let para oq queremos q varie e const para q n varie 
+
+SEMPRE PRIORIZAR O CONST 
+
+Arrays são bem usados para listas
+
+Nomedavariavel.push('Exemplo') --> Para adicionar item na lista
+
+Nomedavariavel.splice(exemplo) --> Para retirar item na lista
+
+Documentação de arrays: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+|| é igual a "OU"
+
+&& para "E"
+
+\n para pular linhas
+
+++ Para adicionar 1
+
+Em projetos reais é muito usado o 'para o valor de indice'
+
